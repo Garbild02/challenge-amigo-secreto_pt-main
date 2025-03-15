@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # 🎉 Sorteio de Amigo Secreto
 
 Este projeto é uma aplicação web simples que permite aos usuários adicionar nomes de amigos a uma lista e, em seguida, sortear um amigo secreto de forma aleatória. O objetivo principal é fortalecer as habilidades em lógica de programação e manipulação do DOM (Document Object Model) com JavaScript.
@@ -42,3 +44,9 @@ Validação:
 
 Se a lista estiver vazia, um alerta será exibido solicitando que o usuário adicione nomes antes de sortear.
 
+=======
+# 
+>>>>>>> Stashed changes
+=======
+# 
+>>>>>>> Stashed changes
