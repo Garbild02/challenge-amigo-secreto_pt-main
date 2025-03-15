@@ -1,9 +1,9 @@
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 
 // Selecionando os elementos para (Campo de texto, Lista de nomes e o local onde sera mostrado o resultado)
-const inputAmigo = document.getElementById('amigo'); // Campo de texto para o nome
-const listaAmigos = document.getElementById('listaAmigos'); // Lista de nomes
-const resultado = document.getElementById('resultado'); // Local onde aparecerá o sorteado
+const inputAmigo = document.getElementById('amigo'); 
+const listaAmigos = document.getElementById('listaAmigos'); 
+const resultado = document.getElementById('resultado');
 
 // Criando uma lista vazia para guardar os nomes
 const nomes = [];
