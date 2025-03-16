@@ -42,3 +42,5 @@ Validação:
 
 Se a lista estiver vazia, um alerta será exibido solicitando que o usuário adicione nomes antes de sortear.
 
+
+
